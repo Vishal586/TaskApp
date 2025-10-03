@@ -1,6 +1,6 @@
 import axios from 'axios';
 
-const API_BASE_URL = 'http://localhost:5000/api';
+const API_BASE_URL = 'https://taskapp-backend2.onrender.com/api';
 
 export const api = axios.create({
     baseURL: API_BASE_URL,
@@ -28,4 +28,5 @@ api.interceptors.response.use(
         }
         return Promise.reject(error);
     }
+
 );
