@@ -8,8 +8,11 @@ The primary focus is a dynamic React.js frontend with a responsive design using 
 
 Frontend (Primary Focus):-
 Modern Framework: Built with React.js or Next.js.
+
 Responsive UI: Crafted with TailwindCSS, Material UI, or Bootstrap.
+
 Secure Forms: Robust validation on both client and server.
+
 Protected Routes: JWT-based access control for private pages.
 
 Backend (Supportive):-
