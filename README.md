@@ -17,11 +17,16 @@ Protected Routes: JWT-based access control for private pages.
 
 Backend (Supportive):-
 Lightweight API: Built with Node.js/Express or Python (FastAPI/Django).
+
 Authentication: Secure user signup and login using JSON Web Tokens (JWT).
+
 Database Integration: Connects seamlessly with MongoDB, PostgreSQL, or MySQL.
+
 Full CRUD: Complete Create, Read, Update, and Delete APIs for a sample data model (e.g., tasks, posts).
 
 Dashboard & Security:-
 User Management: Fetch and update user profiles.
+
 Data Interaction: A full-featured UI for CRUD operations, including search and filter functionality.
+
 Secure Practices: Strong bcrypt password hashing, JWT authentication middleware, and comprehensive error handling.
